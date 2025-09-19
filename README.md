@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **jayishnuuttane@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1WleBXhgUwDkRIfodJCvhPchoVBjaCf7Q/edit?usp=sharing&ouid=109800121336149113874&rtpof=true&sd=true](https://drive.google.com/file/d/15kpIFGaBoT0QD3ofjTNKOrXekfUF2Wru/view?usp=sharing))
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/15kpIFGaBoT0QD3ofjTNKOrXekfUF2Wru/view?usp=sharing](https://drive.google.com/file/d/15kpIFGaBoT0QD3ofjTNKOrXekfUF2Wru/view?usp=sharing))
 
 
 
